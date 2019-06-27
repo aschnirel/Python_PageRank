@@ -1,5 +1,5 @@
 # Python_PageRank
-Page rank code developed for USF course MSAN 502. 
+Page rank code. 
 
 100% original code written by Addie Schnirel. All rights reserved. 
 
